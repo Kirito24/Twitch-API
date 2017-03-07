@@ -1,0 +1,170 @@
+
+body
+{
+  background-color:#499999;
+}
+#twitch{
+  background-color:#000000;
+  width:900px;
+  min-height:110px;
+  margin:0 auto;
+  margin-top:10px;
+
+
+
+
+}
+#uper{
+
+  height:110px;
+}
+#title
+{
+  float:left;
+  color:#491999;
+  font-size:70px;
+  padding-left:15px;
+  font-family:"baloo";
+  padding-top:5px;
+}
+
+#channels
+{
+  background-color:grey;
+}
+#one
+{
+  font-size:20px;
+  width:80px;
+  border-radius:5px;
+  border-color:yellow;
+  height:30px;
+  position:absolute;
+  top:15px;
+  left:1020px;
+
+}
+#two
+{
+  font-size:20px;
+  width:80px;
+  border-radius:5px;
+  border-color:green;
+  height:30px;
+   position:absolute;
+  top:50px;
+  left:1020px;
+
+}
+#three
+{
+  font-size:20px;
+  width:80px;
+  border-radius:5px;
+  border-color:red;
+  height:30px;
+   position:absolute;
+  top:85px;
+  left:1020px;
+
+}
+.streams
+{
+  height:130px;
+
+  font-size:30px;
+  border-bottom-style:dotted;
+  border-bottom-color:black;
+
+
+}
+#logo
+{
+  padding-top:20px;
+  padding-left:40px;
+  width:150px;
+  float:left;
+}
+img{
+  width:90px;
+  height:90px;
+  border-radius:100%;
+  border-style:solid;
+  border-width:5px;
+  border-top-style:dotted;
+  border-color:black;
+
+
+}
+#name
+{
+  float:left;
+  width:150px;
+  padding-top:43px;
+
+  font-size:25px;
+  color:black;
+}
+#content
+{
+  float:left;
+  width:150px;
+  padding-left:30px;
+  padding-right:30px;
+  text-align:center;
+  width:600px;
+  color:black;
+
+}
+.big
+{
+  font-size:40px;
+
+}
+.small
+{
+  font-size:23px;
+}
+.red
+{
+  background-color:#900000;
+}
+.green
+{
+  background-color:green;
+}
+.black
+{
+  background-color:black;
+}
+.yellow
+{
+  background-color:yellow;
+}
+.padd
+{
+  padding-left:60px;
+}
+.padd2
+{
+  padding-left:10px;
+}
+A
+{
+  text-decoration:none;
+  mouse:pointer;
+}
+.pad
+{
+  padding-top:35px;
+
+}
+.pad2
+{
+  padding-top:10px;
+}
+.center{
+  text-align:center;
+  padding-top:38px;
+  color:red;
+}
